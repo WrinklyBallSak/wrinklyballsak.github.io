@@ -1,8 +1,6 @@
-.nav  {
-  display: inline;
-  size: 69px;
-}
-.h1 {
-  font: "Comic Sans MS", cursive, sans-serif;
-  
+ul {
+list-style-type:none;
+margin:0;
+padding:0;
+display:block;
 }
